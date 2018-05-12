@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '40342'
     url: http://www.gutenberg.org/2009/agents/40342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44827#Under-the-Witches-MoonA-Romantic-Tale-of-Mediaeval-Rome
 gutenberg_issued: '2014-02-04'
 gutenberg_type: Text
 identifiers:
